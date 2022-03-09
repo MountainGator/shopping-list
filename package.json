@@ -1,0 +1,18 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "JSON API practice",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "devDependencies": {
+    "supertest": "^6.2.2"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3"
+  }
+}
